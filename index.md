@@ -4,7 +4,7 @@ This is my home page! My name is Wilhelmina Yap and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/MinyayStudies.
+My GitHub page is [I'm an inline-style link](http://github.com/MinyayStudies.)
 
 ### CPSC 120
 
